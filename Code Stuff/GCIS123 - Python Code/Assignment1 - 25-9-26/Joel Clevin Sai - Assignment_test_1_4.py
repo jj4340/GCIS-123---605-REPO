@@ -1,4 +1,4 @@
-from Assignment_production import getting_device_status
+from Joel_Clevin_Sai_Assignment_production import getting_device_status
 
 """
 Below are test conditions for the following:
