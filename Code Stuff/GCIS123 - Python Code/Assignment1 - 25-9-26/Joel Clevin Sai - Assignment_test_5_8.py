@@ -1,6 +1,6 @@
-from Assignment_production import getting_energy_cost
-from Assignment_production import requires_alert
-from Assignment_production import getting_device_status
+from Joel_Clevin_Sai_Assignment_production import getting_energy_cost
+from Joel_Clevin_Sai_Assignment_production import requires_alert
+from Joel_Clevin_Sai_Assignment_production import getting_device_status
 
 """
 Below are test conditions for the following:
